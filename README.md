@@ -5,19 +5,10 @@ This repository contains a **Simple Calculator Program** built in Java. The prog
 
 ---
 
-## 🌟 Features
-
-- **User-Friendly Interface**: Prompts the user to select an operation.
-- **Flexible Input**: Works with any two numbers of type `double`.
-- **Error Handling**: Prevents division by zero.
-- **Extensible**: Easily add more operations as needed.
-
----
-
 ## 🛠️ Requirements
 
-- **Java**: Ensure Java Development Kit (JDK) is installed on your machine.
-- **IDE** (Optional): You can use an IDE like IntelliJ IDEA, Eclipse, or run it in the command line.
+- **Java**: Ensure the Java Development Kit (JDK) is installed on your laptop.
+- **IDE** (Optional): You can use an IDE like IntelliJ IDEA, Eclipse, or run it in the browser compiler.
 
 ---
 
@@ -30,12 +21,14 @@ The code consists of a single Java file:
 
 ## 📝 Code Walkthrough
 
-The calculator follows these steps:
+The calculator program follows these steps:
 
-1. **Prompt User**: Choose an operation.
-2. **Input Numbers**: Enter two numbers for the calculation.
-3. **Perform Calculation**: Based on the operation selected.
-4. **Display Result**: Outputs the result of the calculation.
+1. **Project Setup**: Creating and opening java file on IDE.
+2. **Import package**: In this case import Scanner class module.
+3. **Main Method**: Start Writing the main method.
+4. **Promts Input**: Getting numbers from users.
+5. **Perform Arithmetic Calculation**: Based on the operation selected.
+6. **Display Result**: Outputs the result of the calculation.
 
 ---
 
