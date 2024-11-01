@@ -48,12 +48,12 @@ java Calculator
 ```
 
 ### Output Format
-1. **Input Values**: Enter two numbers as inputs.
-2. **Choose Operation**: You will be prompted to select one of the following options:
+1. **Choose Operation**: You will be prompted to select one of the following options:
     - `1` - Addition
     - `2` - Subtraction
     - `3` - Multiplication
     - `4` - Division
+2. **Input Values**: Enter two numbers as inputs.
 3. **Get Result**: View the result directly in the console.
 
 ---
