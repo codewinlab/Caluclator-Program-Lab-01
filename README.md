@@ -36,8 +36,8 @@ The calculator program follows these steps:
 
 ### Clone the Repository or Directly Copy the Code into your code file.
 ```bash
-git clone https://github.com/codewithlab/Calculator.git
-cd Calculator
+https://github.com/codewinlab/Caluclator-Program-Lab-01.git
+cd Caluclator-Program-Lab-01
 ```
 
 ### Run the Program
